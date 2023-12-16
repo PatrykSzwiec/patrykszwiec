@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Patryk Szwiec</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
